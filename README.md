@@ -1,2 +1,2 @@
 # hello-word
-This repository is for practicing the GitHub Flow.
+just a curious normal human being trown at the world as a big puzzle to solve and admire
